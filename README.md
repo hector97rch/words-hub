@@ -2,8 +2,8 @@
 
 * Clone the projec on the server.
 
-## Words hub project, banco folder.
-    * create an image 
+## Words hub project.
+    *  create an image 
      in the terminal enter the next command **docker build -t words-hub:0.1.0 .**
     * run the project 
     in the terminal enter the next command **docker run --network host words-hub:0.1.0**
